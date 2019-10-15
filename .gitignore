@@ -9,6 +9,7 @@ snippet/actual
 target
 /target
 .classpath
+*.iml
 .project
 .pydevproject
 .settings
